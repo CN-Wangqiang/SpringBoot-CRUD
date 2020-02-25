@@ -1,18 +1,17 @@
-# Getting Started
+# SpringBoot-CRUD
+SpringBoot整合CRUD实现员工管理案例
 
-### Reference Documentation
-For further reference, please consider the following sections:
+## 项目介绍
+项目采用SpringBoot构建。前端使用Bootstrap框架开发，采用Thymeleaf模板引擎渲染页面数据。
+没有配置与数据库的连接，方便测试。
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/maven-plugin/)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/reference/htmlsingle/#boot-features-developing-web-applications)
-* [Thymeleaf](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/reference/htmlsingle/#boot-features-spring-mvc-template-engines)
+## 运行环境
+ JDK1.8
 
-### Guides
-The following guides illustrate how to use some features concretely:
-
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
-* [Handling Form Submission](https://spring.io/guides/gs/handling-form-submission/)
+## 如何运行
+ 1.git clone 项目地址  
+ 2.用IDEA打开，运行SpringbootWebApplication
+ 
+## 参考资料
+[狂神说Java](https://www.bilibili.com/video/av75233634?p=20)
 
